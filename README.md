@@ -1,5 +1,8 @@
 ## Hi, I'm Sungmin Choi 👋
 
+- I'm currently working on ...
+- Neurocle
+
 <!--
 **choismn/choismn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
